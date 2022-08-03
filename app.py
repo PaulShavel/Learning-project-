@@ -1,4 +1,4 @@
 #Cvičná aplikace
-print("Ahoj Hovado!")
+print("Ahoj Amigo!")
 a=3
 print(a)
